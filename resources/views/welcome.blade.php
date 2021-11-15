@@ -65,7 +65,7 @@
                     <nav class="navbar navbar-expand-lg mh-nav nav-btn">
                         <a class="navbar-brand" href="#">
                             {{-- <img src="assets/images/fedalon_logo.png" alt="" class="img-fluid"> --}}
-                            <h2>JOREB</h2>
+                            <h2 class="ml-4">JOREB</h2>
                         </a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon icon"></span>
