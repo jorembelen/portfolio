@@ -2,13 +2,14 @@
 <html lang="en">
 
 <head>
+
+        <!-- CSRF Token -->
+        <meta name="csrf-token" content="{{ csrf_token() }}">
+
         <title> Jorem Belen | Portfolio </title>
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="description" content="Maha Personal cv/resume template for professional and personal website." />
-        <meta name="keywords" content="creative, cv, designer,  online cv, online resume, powerful portfolio, professional, professional resume, responsive, resume, vcard " />
-        <meta name="developer" content="Md. Siful Islam">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
         <!-- FAV AND ICONS   -->
@@ -466,9 +467,8 @@
     <!-- isotope js-->
     <script src="assets/plugins/js/isotope.pkgd.js"></script>
     <script src="assets/plugins/js/packery-mode.pkgd.js"></script>
-    <!-- Map api -->
-    <script src="http://maps.googleapis.com/maps/api/js?v=3.exp&amp;key=AIzaSyCRP2E3BhaVKYs7BvNytBNumU0MBmjhhxc"></script>
-    <!-- Custom Scripts-->
-    <script src="assets/js/map-init.js"></script>
+
     <script src="assets/js/custom-scripts.js"></script>
+
+    </body>
 </html>
