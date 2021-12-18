@@ -299,6 +299,7 @@
                                 <li data-filter="*" class="current wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.1s"> <span>All Categories</span></li>
                                 <li data-filter=".user-interface" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s"><span>Safety Application</span></li>
                                 <li data-filter=".branding" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s"><span>Sales Monitoring</span></li>
+                                <li data-filter=".assets" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s"><span>Asset Management</span></li>
                                 <li data-filter=".mockup" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s"><span>Attendance</span></li>
                                 <li data-filter=".ui" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s"><span>Ecommerce</span></li>
                             </ul>
@@ -326,6 +327,17 @@
                                             <h5 class="title">Sales Monitoring Application</h5>
                                             <span class="sub-title">Web Development</span>
                                             <a href="https://sales.joreb.net#!" target="_blank"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                                <div class="grid-item col-md-4 col-sm-6 col-xs-12 assets">
+                                    <figure>
+                                        <img src="assets/images/portfolio/g8.png" alt="img04">
+                                        <figcaption class="fig-caption">
+                                            <i class="fa fa-search"></i>
+                                            <h5 class="title">Asset Management Application</h5>
+                                            <span class="sub-title">Web Development</span>
+                                            <a href="https://assets.joreb.net#!" target="_blank"></a>
                                         </figcaption>
                                     </figure>
                                 </div>
