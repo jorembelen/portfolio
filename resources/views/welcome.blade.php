@@ -302,6 +302,7 @@
                                 <li data-filter=".assets" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s"><span>Asset Management</span></li>
                                 <li data-filter=".mockup" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s"><span>Attendance</span></li>
                                 <li data-filter=".ui" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s"><span>Ecommerce</span></li>
+                                <li data-filter=".ecom" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s"><span>Ecommerce 2</span></li>
                             </ul>
                         </div>
                         <div class="mh-project-gallery col-sm-12 wow fadeInUp" id="project-gallery" data-wow-duration="0.8s" data-wow-delay="0.5s">
@@ -361,6 +362,17 @@
                                             <h5 class="title">Ecommerce with Android App</h5>
                                             <span class="sub-title">Web Development</span>
                                             <a href="https://store.joreb.net#!" target="_blank"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                                <div class="grid-item col-md-4 col-sm-6 col-xs-12 ecom">
+                                    <figure>
+                                        <img src="assets/images/portfolio/g9.png" alt="img04">
+                                        <figcaption class="fig-caption">
+                                            <i class="fa fa-search"></i>
+                                            <h5 class="title">Ecommerce Two</h5>
+                                            <span class="sub-title">Web Application</span>
+                                            <a href="https://food-app.joreb.net#!" target="_blank"></a>
                                         </figcaption>
                                     </figure>
                                 </div>
