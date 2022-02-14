@@ -115,7 +115,7 @@
                                 <h4 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">Laravel Fullstack Developer</h4>
 
                                 <ul>
-                                    <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s"><i class="fa fa-envelope"></i><a href="mailto:">jorembelen@gmail.com</a></li>
+                                    <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s"><i class="fa fa-envelope"></i><a href="mailto:">iam@joreb.net</a></li>
                                     <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s"><i class="fa fa-phone"></i><a href="callto:">+966 509740359</a></li>
                                     <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.6s"><i class="fa fa-map-marker"></i><address>Jubail, Saudi Arabia</address></li>
                                 </ul>
@@ -420,7 +420,7 @@
                                         </div>
                                         <div class="each-info">
                                             <h4>Email</h4>
-                                            <a href="mailto:jorembelen@gmail.com">jorembelen@gmail.com</a>
+                                            <a href="mailto:iam@joreb.net">iam@joreb.net</a>
                                         </div>
                                     </div>
                                 </div>
