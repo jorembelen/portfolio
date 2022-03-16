@@ -209,10 +209,10 @@
                                         <div class="parcial">
                                             <div class="info">
                                                 <div class="nome">CSS</div>
-                                                <div class="percentagem-num">70%</div>
+                                                <div class="percentagem-num">85%</div>
                                             </div>
                                             <div class="progressBar">
-                                                <div class="percentagem" style="width: 70%;"></div>
+                                                <div class="percentagem" style="width: 85%;"></div>
                                             </div>
                                         </div>
                                     </div>
@@ -220,17 +220,6 @@
                                         <div class="parcial">
                                             <div class="info">
                                                 <div class="nome">Jquery</div>
-                                                <div class="percentagem-num">60%</div>
-                                            </div>
-                                            <div class="progressBar">
-                                                <div class="percentagem" style="width: 60%;"></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="candidatos">
-                                        <div class="parcial">
-                                            <div class="info">
-                                                <div class="nome">Laravel</div>
                                                 <div class="percentagem-num">80%</div>
                                             </div>
                                             <div class="progressBar">
@@ -241,11 +230,22 @@
                                     <div class="candidatos">
                                         <div class="parcial">
                                             <div class="info">
-                                                <div class="nome">HTML</div>
-                                                <div class="percentagem-num">76%</div>
+                                                <div class="nome">Laravel</div>
+                                                <div class="percentagem-num">90%</div>
                                             </div>
                                             <div class="progressBar">
-                                                <div class="percentagem" style="width: 76%;"></div>
+                                                <div class="percentagem" style="width: 90%;"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="candidatos">
+                                        <div class="parcial">
+                                            <div class="info">
+                                                <div class="nome">HTML</div>
+                                                <div class="percentagem-num">85%</div>
+                                            </div>
+                                            <div class="progressBar">
+                                                <div class="percentagem" style="width: 85%;"></div>
                                             </div>
                                         </div>
                                     </div>
@@ -262,15 +262,15 @@
                                     <div class="pr-skill-name">Communication</div>
                                 </li>
                                 <li>
-                                    <div class="mh-progress mh-progress-circle" data-progress="80"></div>
+                                    <div class="mh-progress mh-progress-circle" data-progress="90"></div>
                                     <div class="pr-skill-name">Team Work</div>
                                 </li>
                                 <li>
-                                    <div class="mh-progress mh-progress-circle" data-progress="86"></div>
+                                    <div class="mh-progress mh-progress-circle" data-progress="90"></div>
                                     <div class="pr-skill-name">Project Management</div>
                                 </li>
                                 <li>
-                                    <div class="mh-progress mh-progress-circle" data-progress="60"></div>
+                                    <div class="mh-progress mh-progress-circle" data-progress="85"></div>
                                     <div class="pr-skill-name">Creativity</div>
                                 </li>
                             </ul>
