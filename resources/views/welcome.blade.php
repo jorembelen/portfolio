@@ -154,7 +154,7 @@
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6">
-                        <div class="mh-about-inner">
+                        <div class="mh-about-inner justify">
                             <h2 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.1s">About Me</h2>
                             <p class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">
                                 I am a Laravel Developer with experience of various projects hosted on AWS and Hostgator.
@@ -300,8 +300,9 @@
                             <ul>
                                 <li data-filter="*" class="current wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.1s"> <span>All Categories</span></li>
                                 <li data-filter=".user-interface" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s"><span>Safety Application</span></li>
-                                <li data-filter=".branding" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s"><span>Sales Monitoring</span></li>
-                                <li data-filter=".assets" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s"><span>Asset Management</span></li>
+                                <li data-filter=".monitoring" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s"><span>Sales | Asset | Expense Monitoring</span></li>
+                                {{-- <li data-filter=".expense" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s"><span>Expense Monitoring</span></li>
+                                <li data-filter=".assets" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s"><span>Asset Management</span></li> --}}
                                 <li data-filter=".mockup" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s"><span>Attendance</span></li>
                                 <li data-filter=".ui" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s"><span>Ecommerce</span></li>
                                 <li data-filter=".ecom" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s"><span>Ecommerce 2</span></li>
@@ -311,7 +312,7 @@
                             <div class="portfolioContainer row">
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 user-interface">
                                     <figure>
-                                        <img src="assets/images/portfolio/2.jpg" alt="img04">
+                                        <img src="assets/images/portfolio/g5.png" alt="img04">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Web Application for Safety Office</h5>
@@ -322,7 +323,7 @@
                                 </div>
 
 
-                                <div class="grid-item col-md-4 col-sm-6 col-xs-12 branding">
+                                <div class="grid-item col-md-4 col-sm-6 col-xs-12 monitoring">
                                     <figure>
                                         <img src="assets/images/portfolio/g6.png" alt="img04">
                                         <figcaption class="fig-caption">
@@ -333,7 +334,7 @@
                                         </figcaption>
                                     </figure>
                                 </div>
-                                <div class="grid-item col-md-4 col-sm-6 col-xs-12 branding">
+                                <div class="grid-item col-md-4 col-sm-6 col-xs-12 monitoring">
                                     <figure>
                                         <img src="assets/images/portfolio/g4.png" alt="img04">
                                         <figcaption class="fig-caption">
@@ -344,9 +345,9 @@
                                         </figcaption>
                                     </figure>
                                 </div>
-                                <div class="grid-item col-md-4 col-sm-6 col-xs-12 assets">
+                                <div class="grid-item col-md-4 col-sm-6 col-xs-12 monitoring">
                                     <figure>
-                                        <img src="assets/images/portfolio/g8.png" alt="img04">
+                                        <img src="assets/images/portfolio/g9.png" alt="img04">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Asset Management Application</h5>
@@ -369,7 +370,7 @@
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 ui">
                                     <figure>
-                                        <img src="assets/images/portfolio/g5.png" alt="img04">
+                                        <img src="assets/images/portfolio/2.jpg" alt="img04">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Ecommerce with Android App</h5>
@@ -380,7 +381,7 @@
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 ecom">
                                     <figure>
-                                        <img src="assets/images/portfolio/g9.png" alt="img04">
+                                        <img src="assets/images/portfolio/g8.png" alt="img04">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Ecommerce Two</h5>
