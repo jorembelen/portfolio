@@ -331,6 +331,17 @@
                                         </figcaption>
                                     </figure>
                                 </div>
+                                <div class="grid-item col-md-4 col-sm-6 col-xs-12 branding">
+                                    <figure>
+                                        <img src="assets/images/portfolio/g4.png" alt="img04">
+                                        <figcaption class="fig-caption">
+                                            <i class="fa fa-search"></i>
+                                            <h5 class="title">Expense Monitoring Application</h5>
+                                            <span class="sub-title">Web Development</span>
+                                            <a href="https://expense-monitoring.joreb.net#!" target="_blank"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 assets">
                                     <figure>
                                         <img src="assets/images/portfolio/g8.png" alt="img04">
