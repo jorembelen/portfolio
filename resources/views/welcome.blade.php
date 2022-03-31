@@ -157,7 +157,9 @@
                         <div class="mh-about-inner">
                             <h2 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.1s">About Me</h2>
                             <p class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">
-                                I am a Laravel Developer with experience of various projects hosted online. I'm passionate for web application development with Object Oriented Programming and Relational Database Systems.
+                                I am a Laravel Developer with experience of various projects hosted on AWS and Hostgator.
+                                I also have experience in large-scale application development with Laravel and Livewire on Ecommerce website with payment gateway using Dragonpay and Paypal.
+                                I'm passionate for web application development with Object Oriented Programming and Relational Database Systems.
                             </p>
                             <div class="mh-about-tag wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">
                                 <ul>
@@ -165,8 +167,8 @@
                                     <li><span>css</span></li>
                                     <li><span>php</span></li>
                                     <li><span>wordpress</span></li>
-                                    <li><span>Vue</span></li>
                                     <li><span>Javascript</span></li>
+                                    <li><span>Livewire</span></li>
                                 </ul>
                             </div>
                             <a href="#" class="btn btn-fill wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s">Downlaod CV <i class="fa fa-download"></i></a>
@@ -453,7 +455,7 @@
                             <div class="row">
                                 <div class="col-sm-6">
                                     <div class="text-left text-xs-center">
-                                        <p>All right reserved JOREB @ 2021</p>
+                                        <p>All right reserved JOREB @ <script>document.write(new Date().getFullYear())</script></p>
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
