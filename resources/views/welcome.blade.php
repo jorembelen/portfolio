@@ -374,7 +374,7 @@
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">PassMan</h5>
-                                            <span class="sub-title">Password Manager App</span>
+                                            <span class="sub-title">Password Manager App with 2FA</span>
                                             <a href="https://passman.joreb.net#!" target="_blank"></a>
                                         </figcaption>
                                     </figure>
