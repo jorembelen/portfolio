@@ -312,11 +312,11 @@
                             <div class="portfolioContainer row">
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 user-interface">
                                     <figure>
-                                        <img src="assets/images/portfolio/g5.png" alt="img04">
+                                        <img src="assets/images/apps/safety-app.png" alt="img04">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Web Application for Safety Office</h5>
-                                            <span class="sub-title">Web Development</span>
+                                            <span class="sub-title">HSE Incident Report Monitoring</span>
                                             <a href="https://safety.joreb.net#!" target="_blank"></a>
                                         </figcaption>
                                     </figure>
@@ -325,33 +325,33 @@
 
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 monitoring">
                                     <figure>
-                                        <img src="assets/images/portfolio/g6.png" alt="img04">
+                                        <img src="assets/images/apps/sales-monitoring.jpg" alt="img04">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Sales Monitoring Application</h5>
-                                            <span class="sub-title">Web Development</span>
+                                            <span class="sub-title">Daily Sales Monitoring</span>
                                             <a href="https://sales.joreb.net#!" target="_blank"></a>
                                         </figcaption>
                                     </figure>
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 monitoring">
                                     <figure>
-                                        <img src="assets/images/portfolio/g4.png" alt="img04">
+                                        <img src="assets/images/apps/expense-monitoring.png" alt="img04">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Expense Monitoring Application</h5>
-                                            <span class="sub-title">Web Development</span>
+                                            <span class="sub-title">Daily Expense Monitoring</span>
                                             <a href="https://expense-monitoring.joreb.net#!" target="_blank"></a>
                                         </figcaption>
                                     </figure>
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 monitoring">
                                     <figure>
-                                        <img src="assets/images/portfolio/g9.png" alt="img04">
+                                        <img src="assets/images/apps/asset-monitoring.png" alt="img04">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Asset Management Application</h5>
-                                            <span class="sub-title">Web Development</span>
+                                            <span class="sub-title">Office Asset Monitoring App</span>
                                             <a href="https://assets.joreb.net#!" target="_blank"></a>
                                         </figcaption>
                                     </figure>
@@ -359,18 +359,18 @@
 
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 mockup">
                                     <figure>
-                                        <img src="assets/images/portfolio/g1.jpg" alt="img04">
+                                        <img src="assets/images/apps/attendance-monitoring.png" alt="img04">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Attendance using QR Code</h5>
-                                            <span class="sub-title">Web Development</span>
+                                            <span class="sub-title">Daily Attendance with QR Code</span>
                                             <a href="https://attendance.joreb.net#!" target="_blank"></a>
                                         </figcaption>
                                     </figure>
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 mockup">
                                     <figure>
-                                        <img src="assets/images/portfolio/g2.png" alt="img04">
+                                        <img src="assets/images/apps/passman.jpg" alt="img04">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">PassMan</h5>
@@ -381,22 +381,22 @@
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 ui">
                                     <figure>
-                                        <img src="assets/images/portfolio/2.jpg" alt="img04">
+                                        <img src="assets/images/apps/ecommerce.jpg" alt="img04">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Ecommerce with Android App</h5>
-                                            <span class="sub-title">Web Development</span>
+                                            <span class="sub-title">Ecommerce with Dashboard</span>
                                             <a href="https://store.joreb.net#!" target="_blank"></a>
                                         </figcaption>
                                     </figure>
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 ecom">
                                     <figure>
-                                        <img src="assets/images/portfolio/g8.png" alt="img04">
+                                        <img src="assets/images/apps/ecommerce2.jpg" alt="img04">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Ecommerce Two</h5>
-                                            <span class="sub-title">Web Application</span>
+                                            <span class="sub-title">Ecommerce for Food Ordering App</span>
                                             <a href="https://food-app.joreb.net#!" target="_blank"></a>
                                         </figcaption>
                                     </figure>
