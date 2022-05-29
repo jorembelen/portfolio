@@ -303,7 +303,7 @@
                                 <li data-filter=".monitoring" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s"><span>Sales | Asset | Expense Monitoring</span></li>
                                 {{-- <li data-filter=".expense" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s"><span>Expense Monitoring</span></li>
                                 <li data-filter=".assets" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s"><span>Asset Management</span></li> --}}
-                                <li data-filter=".mockup" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s"><span>Attendance</span></li>
+                                <li data-filter=".mockup" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s"><span>Attendance | Password Manager</span></li>
                                 <li data-filter=".ui" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s"><span>Ecommerce</span></li>
                                 <li data-filter=".ecom" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s"><span>Ecommerce 2</span></li>
                             </ul>
@@ -365,6 +365,17 @@
                                             <h5 class="title">Attendance using QR Code</h5>
                                             <span class="sub-title">Web Development</span>
                                             <a href="https://attendance.joreb.net#!" target="_blank"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                                <div class="grid-item col-md-4 col-sm-6 col-xs-12 mockup">
+                                    <figure>
+                                        <img src="assets/images/portfolio/g2.png" alt="img04">
+                                        <figcaption class="fig-caption">
+                                            <i class="fa fa-search"></i>
+                                            <h5 class="title">PassMan</h5>
+                                            <span class="sub-title">Password Manager App</span>
+                                            <a href="https://passman.joreb.net#!" target="_blank"></a>
                                         </figcaption>
                                     </figure>
                                 </div>
