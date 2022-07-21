@@ -80,9 +80,9 @@
                                 <li class="nav-item">
                                     <a class="nav-link" href="#mh-about">About</a>
                                 </li>
-                                <li class="nav-item">
+                                {{-- <li class="nav-item">
                                    <a class="nav-link" href="#mh-skills">Skills</a>
-                                </li>
+                                </li> --}}
                                 <li class="nav-item">
                                     <a class="nav-link" href="#mh-portfolio">Portfolio</a>
                                 </li>
@@ -115,7 +115,7 @@
                                 <h4 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">Laravel Fullstack Developer</h4>
 
                                 <ul>
-                                    <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s"><i class="fa fa-envelope"></i><a href="mailto:">iam@joreb.net</a></li>
+                                    <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s"><i class="fa fa-envelope"></i><a href="mailto:">iam@joreb.net | jorembelen@gmail.com</a></li>
                                     <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s"><i class="fa fa-phone"></i><a href="callto:">+966 509740359</a></li>
                                     <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.6s"><i class="fa fa-map-marker"></i><address>Jubail, Saudi Arabia</address></li>
                                 </ul>
@@ -185,7 +185,7 @@
            SKILLS
         ===================
         -->
-        <section class="mh-skills" id="mh-skills">
+        {{-- <section class="mh-skills" id="mh-skills">
             <div class="container">
                 <div class="row section-separator">
                     <div class="section-title text-center col-sm-12">
@@ -280,7 +280,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
 
 
 
@@ -445,7 +445,7 @@
                                         </div>
                                         <div class="each-info">
                                             <h4>Email</h4>
-                                            <a href="mailto:iam@joreb.net">iam@joreb.net</a>
+                                            <a href="mailto:iam@joreb.net">iam@joreb.net | jorembelen@gmail.com</a>
                                         </div>
                                     </div>
                                 </div>
