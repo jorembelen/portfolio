@@ -300,12 +300,10 @@
                             <ul>
                                 <li data-filter="*" class="current wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.1s"> <span>All Categories</span></li>
                                 <li data-filter=".user-interface" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s"><span>Safety Application</span></li>
-                                <li data-filter=".monitoring" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s"><span>Sales | Asset | Expense Monitoring</span></li>
-                                {{-- <li data-filter=".expense" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s"><span>Expense Monitoring</span></li>
-                                <li data-filter=".assets" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s"><span>Asset Management</span></li> --}}
+                                <li data-filter=".monitoring" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s"><span>Sales | Asset | Expense</span></li>
                                 <li data-filter=".mockup" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s"><span>Attendance | Password Manager</span></li>
-                                <li data-filter=".ui" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s"><span>Ecommerce</span></li>
-                                <li data-filter=".ecom" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s"><span>Ecommerce 2</span></li>
+                                <li data-filter=".ecom" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s"><span>Ecommerce</span></li>
+                                <li data-filter=".fms" class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s"><span>Facililty Management</span></li>
                             </ul>
                         </div>
                         <div class="mh-project-gallery col-sm-12 wow fadeInUp" id="project-gallery" data-wow-duration="0.8s" data-wow-delay="0.5s">
@@ -379,12 +377,12 @@
                                         </figcaption>
                                     </figure>
                                 </div>
-                                <div class="grid-item col-md-4 col-sm-6 col-xs-12 ui">
+                                <div class="grid-item col-md-4 col-sm-6 col-xs-12 ecom">
                                     <figure>
                                         <img src="assets/images/apps/ecommerce.jpg" alt="img04">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
-                                            <h5 class="title">Ecommerce with Android App</h5>
+                                            <h5 class="title">Multi Vendor Store</h5>
                                             <span class="sub-title">Ecommerce with Dashboard</span>
                                             <a href="https://store.joreb.net#!" target="_blank"></a>
                                         </figcaption>
@@ -395,9 +393,20 @@
                                         <img src="assets/images/apps/ecommerce2.jpg" alt="img04">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
-                                            <h5 class="title">Ecommerce Two</h5>
-                                            <span class="sub-title">Ecommerce for Food Ordering App</span>
+                                            <h5 class="title">Ecommerce</h5>
+                                            <span class="sub-title">Food Ordering App</span>
                                             <a href="https://food-app.joreb.net#!" target="_blank"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
+                                <div class="grid-item col-md-4 col-sm-6 col-xs-12 fms">
+                                    <figure>
+                                        <img src="assets/images/apps/fms.png" alt="img04">
+                                        <figcaption class="fig-caption">
+                                            <i class="fa fa-search"></i>
+                                            <h5 class="title">FMS</h5>
+                                            <span class="sub-title">Facility Management System</span>
+                                            <a href="https://fms.ggwphost.com#!" target="_blank"></a>
                                         </figcaption>
                                     </figure>
                                 </div>
