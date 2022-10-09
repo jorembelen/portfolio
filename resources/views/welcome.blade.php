@@ -399,6 +399,17 @@
                                         </figcaption>
                                     </figure>
                                 </div>
+                                <div class="grid-item col-md-4 col-sm-6 col-xs-12 ecom">
+                                    <figure>
+                                        <img src="assets/images/apps/aztronorth.png" alt="img04">
+                                        <figcaption class="fig-caption">
+                                            <i class="fa fa-search"></i>
+                                            <h5 class="title">Ecommerce</h5>
+                                            <span class="sub-title">Aztronorth Auction</span>
+                                            <a href="https://aztronorth.com#!" target="_blank"></a>
+                                        </figcaption>
+                                    </figure>
+                                </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 fms">
                                     <figure>
                                         <img src="assets/images/apps/fms.png" alt="img04">
