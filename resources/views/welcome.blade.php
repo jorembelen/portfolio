@@ -297,7 +297,7 @@
                                 </div>
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 ecom">
                                     <figure>
-                                        <img src="/assets/images/apps/aztronorth.png" alt="img04">
+                                        <img src="/assets/images/apps/aztronorth.PNG" alt="img04">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Ecommerce</h5>
@@ -361,7 +361,7 @@
                                         </div>
                                         <div class="each-info">
                                             <h4>Email</h4>
-                                            <a href="mailto:iam@joreb.net">iam@joreb.net | jorembelen@gmail.com</a>
+                                            <a href="mailto:iam@joreb.net">jorembelen@gmail.com</a>
                                         </div>
                                     </div>
                                 </div>
@@ -372,7 +372,7 @@
                                         </div>
                                         <div class="each-info">
                                             <h4>Phone</h4>
-                                            <a href="callto:+966 509740359">+966 509740359</a>
+                                            <a href="callto:+966 509740359">+966 509740359 | +63 9279606333</a>
                                         </div>
                                     </div>
                                 </div>
