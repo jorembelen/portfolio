@@ -206,12 +206,12 @@
                             <div class="portfolioContainer row">
                                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 user-interface">
                                     <figure>
-                                        <img src="/assets/images/apps/safety-app.png" alt="img04">
+                                        <img src="/assets/images/apps/safety1.png" alt="img04">
                                         <figcaption class="fig-caption">
                                             <i class="fa fa-search"></i>
                                             <h5 class="title">Web Application for Safety Office</h5>
                                             <span class="sub-title">HSE Incident Report Monitoring</span>
-                                            {{-- <a href="#"></a> --}}
+                                            {{-- <a href="#" ></a> --}}
                                         </figcaption>
                                     </figure>
                                 </div>
