@@ -31,7 +31,7 @@ jobs:
 
       - name: Composer update
         run: |
-          composer update --no-dev --no-interaction --prefer-dist
+          composer install --no-dev --verbose --prefer-dist --optimize-autoloader --no-interaction --no-scripts;
 
       - name: Create deployment artifact
         env:
