@@ -306,8 +306,8 @@
                                 <div class="col-md-12 scroll-animation" data-animation="fade_from_bottom">
                                     <div class="portfolio-item portfolio-full">
                                         <div class="portfolio-item-inner">
-                                            <a href="{{ asset('assets2/images/apps/aztronorth.PNG') }}" data-lightbox="example-1">
-                                                <img src="{{ asset('assets2/images/apps/aztronorth2.PNG') }}" alt="Portfolio">
+                                            <a href="{{ asset('assets2/images/apps/aztronorth.png') }}" data-lightbox="example-1">
+                                                <img src="{{ asset('assets2/images/apps/aztronorth2.png') }}" alt="Portfolio">
                                             </a>
                                             
                                             <x-list></x-list>
@@ -334,8 +334,8 @@
                                 <div class="col-md-6 scroll-animation" data-animation="fade_from_right">
                                     <div class="portfolio-item portfolio-half">
                                         <div class="portfolio-item-inner">
-                                            <a href="{{ asset('assets2/images/apps/sales.PNG') }}" data-lightbox="example-1">
-                                                <img src="{{ asset('assets2/images/apps/sales.PNG') }}" alt="Portfolio">
+                                            <a href="{{ asset('assets2/images/apps/sales.png') }}" data-lightbox="example-1">
+                                                <img src="{{ asset('assets2/images/apps/sales.png') }}" alt="Portfolio">
                                             </a>
         
                                             <x-list></x-list>
